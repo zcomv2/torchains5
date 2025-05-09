@@ -54,5 +54,5 @@ Launch the script:
 
 type:" w3m https://www.mon-ip.com/es/mi-ip/ "
 
-![Texto alternativo](https://github.com/zcomv2/torchains5/blob/main/tor2.png)
+![Torchains5](https://github.com/zcomv2/torchains5/blob/main/tor2.png)
 
